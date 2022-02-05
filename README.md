@@ -1,2 +1,2 @@
 # EDUbots
-Repo for EDUcative bots I made
+Repo for EDUcative mini robots I made
